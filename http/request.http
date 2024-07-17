@@ -1,0 +1,6 @@
+POST localhost:8080/suggestions
+Content-Type: application/json
+
+{
+  "query":  "My daughter wants a dog that she can train for agility courses. Can you suggest a dog that is energetic and quick to learn?"
+}
